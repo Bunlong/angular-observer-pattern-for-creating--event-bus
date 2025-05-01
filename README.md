@@ -15,8 +15,7 @@ RxJS provides operators for transforming, filtering, and combining data streams,
 ### Boosting Performance:
 Angular updates when needed, rather than constantly polling and checking the state of variables. 
 
-
-# CLI
+### CLI
 ```
 ng g c /pages/page-name
 ng g c /components/component-name
