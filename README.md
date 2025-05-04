@@ -21,6 +21,3 @@ ng g c /pages/page-name
 ng g c /components/component-name
 ng g s /services/service-name
 ```
-
-<!-- https://dev.to/renukapatil/understanding-rxjs-and-observables-in-angular-a-beginner-friendly-guide-ibf -->
-<!-- https://danywalls.com/using-rxjs-as-state-manager-in-angular -->
